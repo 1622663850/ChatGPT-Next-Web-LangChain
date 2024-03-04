@@ -1813,19 +1813,19 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
-"@langchain/community@0.0.30", "@langchain/community@~0.0.29":
-  version "0.0.30"
-  resolved "https://registry.yarnpkg.com/@langchain/community/-/community-0.0.30.tgz#968f08bd8581fc6c9725f49e5d27f4ebb1bae89e"
-  integrity sha512-duYJtC8wN8FeIBkijGmDcOPpcK6dPU3Uwamh9K3ASuM97AUI2gEzZJeVtUPQiWFRPyDOAlPfNtrqxVUy2kmp9g==
+"@langchain/community@0.0.34", "@langchain/community@~0.0.29":
+  version "0.0.34"
+  resolved "https://registry.yarnpkg.com/@langchain/community/-/community-0.0.34.tgz#5b7fbaf70bb2f1bb036b1ee4af38b8cc2103fbe3"
+  integrity sha512-eU3VyK7dZ3S05E4IQ3IVb3B8Ja/GaNDHaXhfjUJfZLOwyZrrLMhshGRIbbO+iMqJz8omGK761QK14v0G0/U3iw==
   dependencies:
-    "@langchain/core" "~0.1.29"
+    "@langchain/core" "~0.1.36"
     "@langchain/openai" "~0.0.14"
     flat "^5.0.2"
     langsmith "~0.1.1"
     uuid "^9.0.0"
     zod "^3.22.3"
 
-"@langchain/core@0.1.30", "@langchain/core@~0.1.13", "@langchain/core@~0.1.29":
+"@langchain/core@0.1.30", "@langchain/core@~0.1.13", "@langchain/core@~0.1.29", "@langchain/core@~0.1.36":
   version "0.1.30"
   resolved "https://registry.yarnpkg.com/@langchain/core/-/core-0.1.30.tgz#6f9b5d3cfe9bb447f94bc8c71be1527b9decd302"
   integrity sha512-3oqEKgwe7U/efieZrCC6BLwOHm4YPj27mRNBZLaB5BwPh3a7gXIevxEnbjN3o5j9kJqc5acG7nn35h7Wkrf2Ag==
